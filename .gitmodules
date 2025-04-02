@@ -1,3 +1,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/TeamProjectUMCS/Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/TeamProjectUMCS/Frontend
