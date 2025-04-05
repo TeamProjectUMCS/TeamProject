@@ -1,4 +1,4 @@
-name: Sync Backend Submodule to main
+name: Sync Frontend Submodule to main
 
 on:
   schedule:
