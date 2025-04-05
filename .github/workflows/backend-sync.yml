@@ -10,6 +10,15 @@ env:
   EXPECTED_SUBMODULE: "Backend"
 
 jobs:
+  debug_payload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug Event
+        run: |
+          echo "Event name: ${{ github.event_name }}"
+          echo "Event type: ${{ github.event.action }}"
+          echo "Payload: ${{ toJson(github.event.client_payload) }}"
+          echo "Submodule value: ${{ github.event.client_payload.submodule }}"
   sync:
     runs-on: ubuntu-latest
     if: github.event.client_payload.submodule == 'Backend'
