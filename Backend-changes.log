@@ -83,3 +83,8 @@ Submodule: Backend
 Author: Michał Rymarski
 Commit message: Merge pull request #13 from TeamProjectUMCS/SCRUM-76-Create-methods-to-upload-images-to-Google-Cloud
 ----------------------------------------
+Update at 2025-04-29 17:46:14
+Submodule: Backend
+Author: MichalRymarski
+Commit message: devops: setup files for automatic deployment via google cloud run
+----------------------------------------
