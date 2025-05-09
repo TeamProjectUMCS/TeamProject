@@ -188,3 +188,8 @@ Submodule: Frontend
 Author: MichalRymarski
 Commit message: fix: reformat package.json
 ----------------------------------------
+Update at 2025-05-09 17:30:26
+Submodule: Frontend
+Author: MichalRymarski
+Commit message: fix: Update Dockerfile to generate package-lock.json (package-lock.json is not created before merged ?)
+----------------------------------------
