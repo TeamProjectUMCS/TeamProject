@@ -168,3 +168,8 @@ Submodule: Frontend
 Author: MichalRymarski
 Commit message: devops : setup files for automatic deployment via google cloud run
 ----------------------------------------
+Update at 2025-05-09 12:41:33
+Submodule: Frontend
+Author: Michał Rymarski
+Commit message: Merge pull request #6 from TeamProjectUMCS/SCRUM-55-Create-the-chat-UI
+----------------------------------------
