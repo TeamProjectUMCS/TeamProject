@@ -193,3 +193,8 @@ Submodule: Backend
 Author: Michał Rymarski
 Commit message: Update Dockerfile
 ----------------------------------------
+Update at 2025-05-09 18:04:57
+Submodule: Backend
+Author: MichalRymarski
+Commit message: fix : Terminate rabbit (it wasnt used anywhere anyway)
+----------------------------------------
