@@ -178,3 +178,8 @@ Submodule: Backend
 Author: MichalRymarski
 Commit message: devops: setup files for automatic deployment via google cloud run
 ----------------------------------------
+Update at 2025-05-09 12:41:24
+Submodule: Backend
+Author: Michał Rymarski
+Commit message: Merge pull request #26 from TeamProjectUMCS/SCRUM-64-Implement-chat-connection
+----------------------------------------
