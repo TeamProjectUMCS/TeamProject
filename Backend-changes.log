@@ -218,3 +218,8 @@ Submodule: Backend
 Author: MichalRymarski
 Commit message: fix : Terminate rabbit (it wasnt used anywhere anyway)
 ----------------------------------------
+Update at 2025-05-14 16:14:43
+Submodule: Backend
+Author: MichalRymarski
+Commit message: fix : Terminate rabbit (it wasnt used anywhere anyway)
+----------------------------------------
