@@ -243,3 +243,8 @@ Submodule: Backend
 Author: MichalRymarski
 Commit message: fix : Terminate rabbit (it wasnt used anywhere anyway)
 ----------------------------------------
+Update at 2025-05-19 10:12:45
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: SCRUM-49 Implemented search algorithm
+----------------------------------------
