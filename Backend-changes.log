@@ -258,3 +258,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: feat: added description to user
 ----------------------------------------
+Update at 2025-05-19 13:45:37
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: fix: limited potential matches to 30 and included Sex.OTHER in preferences
+----------------------------------------
