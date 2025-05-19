@@ -263,3 +263,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: fix: limited potential matches to 30 and included Sex.OTHER in preferences
 ----------------------------------------
+Update at 2025-05-19 16:06:54
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: fix: send DTO for Matches in controller instead of Match object
+----------------------------------------
