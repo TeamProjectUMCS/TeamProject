@@ -278,3 +278,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: fix: send DTO for Matches in controller instead of Match object
 ----------------------------------------
+Update at 2025-05-21 16:14:59
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: fix: send DTO for Matches in controller instead of Match object
+----------------------------------------
