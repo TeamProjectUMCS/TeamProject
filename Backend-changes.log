@@ -358,3 +358,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: fix: send DTO for Matches in controller instead of Match object
 ----------------------------------------
+Update at 2025-06-05 19:07:53
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: Merge pull request #36 from TeamProjectUMCS/SCRUM-66-Implement-profile-change
+----------------------------------------
