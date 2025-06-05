@@ -333,3 +333,8 @@ Submodule: Frontend
 Author: MichalRymarski
 Commit message: fix: Change header to original size (the chat is sinking for some reason ?)
 ----------------------------------------
+Update at 2025-06-05 21:07:54
+Submodule: Frontend
+Author: zouuek
+Commit message: Added profile frontend with all the endpoints :-)
+----------------------------------------
