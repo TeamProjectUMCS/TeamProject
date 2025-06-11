@@ -408,3 +408,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: fix: fixed tests after hobby migration
 ----------------------------------------
+Update at 2025-06-11 17:19:55
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: Merge pull request #41 from TeamProjectUMCS/SCRUM-82-Display-potential-user-match-data-UserMatchDto-on-the-frontend
+----------------------------------------
