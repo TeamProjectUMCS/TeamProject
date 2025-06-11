@@ -398,3 +398,8 @@ Submodule: Backend
 Author: Kacper Dęga
 Commit message: Merge pull request #40 from TeamProjectUMCS/SCRUM-83-Migrate-Hobby-Field-from-String-to-Enum-in-Backend
 ----------------------------------------
+Update at 2025-06-11 16:04:45
+Submodule: Backend
+Author: Kacper Dęga
+Commit message: fix: fixed tests after hobby migration
+----------------------------------------
