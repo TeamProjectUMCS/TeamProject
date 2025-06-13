@@ -398,3 +398,8 @@ Submodule: Frontend
 Author: Kacper Dęga
 Commit message: fix: multiselect for hobbies in register
 ----------------------------------------
+Update at 2025-06-13 13:44:45
+Submodule: Frontend
+Author: Mateusz Dudziak
+Commit message: Merge pull request #12 from TeamProjectUMCS/SCRUM-84-Finish-hobby-functionality
+----------------------------------------
